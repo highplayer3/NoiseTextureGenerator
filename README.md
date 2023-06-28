@@ -1,5 +1,5 @@
 # NoiseTextureGenerator
- A Tool for generating various kinds of NoiseTexture.
+ A Tool for generating various kinds of NoiseTexture.Of courese you can learn some noise algorithms by this repo
 ## Origin
  When I wrote Shader in Unity to accomplish some interesting effects,I found that 'NoiseMap' is frequently used.So I set about writing this code.
  Now I have finished this
